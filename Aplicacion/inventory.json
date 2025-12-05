@@ -1,1 +1,26 @@
-{}
+{"1": {
+        "nombre": "Telefono",
+        "cantidad": 1,
+        "precio": 500.0
+    },
+    "2": {
+        "nombre": "Computadora",
+        "cantidad": 1,
+        "precio": 1000.0
+    },
+    "3": {
+        "nombre": "Laptop",
+        "cantidad": 1,
+        "precio": 700.0
+    },
+    "4": {
+        "nombre": "Mouse",
+        "cantidad": 1,
+        "precio": 50.0
+    },
+    "5": {
+        "nombre": "Television",
+        "cantidad": 1,
+        "precio": 900.0
+    }
+}}
